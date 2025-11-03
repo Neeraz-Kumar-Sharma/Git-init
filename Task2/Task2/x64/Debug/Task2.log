@@ -1,0 +1,4 @@
+﻿  Task2.cpp
+D:\__01_NS\Task2\Task2.cpp(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\__01_NS\Task2\Task2.cpp(5,15): warning C4101: 'm': unreferenced local variable
+  Task2.vcxproj -> D:\__01_NS\Task2\x64\Debug\Task2.exe
